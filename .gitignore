@@ -1,0 +1,29 @@
+# General
+node_modules/
+.DS_Store
+dist/
+lib/
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Env files
+.env
+.env.*
+functions/.env
+functions/.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+web/.next/
+
+web/node_modules/
+
+firebase-debug.log
+
+firestore-debug.log
